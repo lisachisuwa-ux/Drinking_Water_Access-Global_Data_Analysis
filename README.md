@@ -46,7 +46,7 @@ The main goals of this project were to:
 ---
 
 ## Tools & Technologies
-- *Google Sheets / Excel*  
+- *Google Sheets   
 - Spreadsheet formulas (IF, IFERROR, AVERAGE, MIN, MAX, ROUND, VLOOKUP)  
 - Pivot Tables  
 - Charts & Visualizations  
