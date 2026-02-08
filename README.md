@@ -81,7 +81,4 @@ A dedicated *Global 2000–2020 Report* summary sheet consolidates statistics an
 
 ## Author 
 ---
-Lisa S Chisuwa @2026
-│   └── Charts, histograms, and pivot tables
-│
-└── README.md# Drinking_Water_Access-Global_Data_Analys
+Lisa S Chisuwa @2026 Drinking_Water_Access-Global_Data_Analys
